@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "alpine-beacon-460203-h4",
+  "private_key_id": "4edeb1dbcdb6ad8338bc8cb92a176fc35def6177",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyBjS8llp83jLd\njBeYnfmHO1/cFlAkCmpAF07XV31OfRpjddtEe/HVSTDmaad3OBJF+K3eIdmFN5pQ\nEhvGyS2v8jzLVIW8WedS8OW0bM2Y1wqdl+s8cmTyW56c1Pr6YlbhhXEiYBJT2Ljh\nJEJdOgAvVFDSnXfh28+06J3ZOARjMVYIzPwez3xnq7Cc3WDVf0CYXCddLT8Ve3Dh\nSlvIqA65UxfQAt3L3THS53YZb+hu+04FSP8pWjE7WrAOFONdCg9cMmSv7wa9c5cG\nc2W/HqmyNz+CdthB1iRyg3cTJUBSxvYIZoE0a39yygcsrBAi/NJuBVCXKm9V1NEO\nMyU9dTdPAgMBAAECggEAON+Er471H5k49NBRpX8qfYp5aG10ct8k7I7FsEQSEyYi\nbQ30298g9juotKOiTZMLO3Fj0mhL/qQx10zBtPMGdoRT6b158B9kqHmvWMG9uQtS\nJ+Cl1SzSlR6yAHaGK8GI8glYiFva3xCIl9ymmvPxpS0xmOeXqf84TxpVe1TLCgjq\nrhYO8dpOndFTyiOJrkTqD9pAFuI/fzQjbl38ucc0iGqRAx47Zb9OhZHCSEc2AnxY\nLC+7gHPL6LxsBTWaw6uuTlXxLcjpEtIEZ20PTe1OiNxFPpGVJcwln8pS9H8VcJI5\nJQOLYhB8Zn/+dABjKlwKSUwZPH9DaVvbbQhjdMgV4QKBgQDuh/slZNS+ujML1kZ1\ngIzbvyl+OR8Lpy9pgdlO1M5+zr+uLz65tgZnG6+AhV05FseXSOY7XTt63tSwWHoc\nELwr5dQ7DzFtilyrm2v8st7hcp7wkP7LlqfgZuwuz2pZsaRkmwXmER+t/sGMzylZ\nMDi9tQW5hW6Dki4Y70lrd1dDkQKBgQC/D9TrbZsFYEtMRRZzYsGagQlI4xOD2wZ8\nNZhcGg+BLMwBwxv5fHP02hyJHGAUTtHHSPNLLJauSPS4AGo5i5Yp3buxrsz+gT6R\nzMFENSQ6kf8D5Rjgc1wytTstn7CnwvjBMiP9uvBguBKKoKCexz85mHtPaS006WfJ\n5n/ImnWc3wKBgQCdWGfr59KKqcsIcOVzl0PTpQsa71UyW6tj3rrZTHmWno1EuneX\nC6K3m0Su88pl4Ufx3K261SpqR9lnJkYOg1+NWYMhHkmNp6qvrMuUGu35K6H6sLrS\n02OUHHCKBFp0JkF59+TxObR7E0TbvL/azHtxcJsBISqgceokmpwE3ulacQKBgHgV\nFTdazgHVAb5P9cpTmWboDtPWlF9c+3h5nubUIkaHxzicTirBw4dyxliOkvxwhXyB\nJxhqT9H+XICBEkJUru5lRCBqwsB6rr6oOBgMZlbBh8wE41u+ZYYhTa5hHYBzFDEo\nuGIyaf3/8vdZ+VmR1PT4FxhT/Guy/t5wloOYQK91AoGBAOMYPl6QjyDEYJTqLeP9\ncccklGCbF1nia7fsKeJFl6PKh2Otm2Zf9kDCRG1/zdXZN1gSI3igrYxGbzV01d2Q\nexxmH1lZ+v6dv+Czc6/I7+dy7f7SEK7FXSiqFy0TPVb4MsUSca3VTGMZf3lvS/mo\n94s9Ly2x2NXdc5rpNDzbATmO\n-----END PRIVATE KEY-----\n",
+  "client_email": "tripdata@alpine-beacon-460203-h4.iam.gserviceaccount.com",
+  "client_id": "101051456911690607508",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tripdata%40alpine-beacon-460203-h4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
