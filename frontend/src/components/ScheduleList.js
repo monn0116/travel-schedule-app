@@ -145,6 +145,8 @@ const ScheduleList = ({ scheduleData, onEdit, onDelete, onAdd }) => {
                 }
               />
               <ListItemSecondaryAction>
+                {/* 編集アイコンをコメントアウト */}
+                {/*
                 <IconButton 
                   edge="end" 
                   aria-label="edit"
@@ -153,6 +155,9 @@ const ScheduleList = ({ scheduleData, onEdit, onDelete, onAdd }) => {
                 >
                   <EditIcon />
                 </IconButton>
+                */}
+                {/* 削除アイコンをコメントアウト */}
+                {/*
                 <IconButton 
                   edge="end" 
                   aria-label="delete"
@@ -160,6 +165,7 @@ const ScheduleList = ({ scheduleData, onEdit, onDelete, onAdd }) => {
                 >
                   <DeleteIcon />
                 </IconButton>
+                */}
               </ListItemSecondaryAction>
             </ListItem>
             {index < scheduleData.length - 1 && <Divider />}
